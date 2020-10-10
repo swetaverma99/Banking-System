@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1567580844 source:d:\source code\accountingsystem\src\useraccount.cpp
+	"UserAccount.h"
+
+1567580843 d:\source code\accountingsystem\include\useraccount.h
+
+1568455247 source:d:\source code\accountingsystem\main.cpp
+	<iostream>
+	<stdlib.h>
+	"UserAccount.h"
+	"Transaction.h"
+	"FileHandler.h"
+
+1568455016 d:\source code\accountingsystem\useraccount.h
+
+1568398394 d:\source code\accountingsystem\transaction.h
+
+1568455071 d:\source code\accountingsystem\filehandler.h
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	"UserAccount.h"
+
